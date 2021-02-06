@@ -1,1 +1,1 @@
-"hello wold ∑≈ºŸ¡À" 
+"hello wold"
