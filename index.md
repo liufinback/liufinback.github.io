@@ -1,1 +1,1 @@
-"hello wold"
+[1c，使用Slip-box的思考系统](./slipbox.md)
