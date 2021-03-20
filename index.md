@@ -1,5 +1,6 @@
-[47a2b，解决问题的第三步是提出解决方案](./problem3.md)  
-[47a2b，解决问题的第二步是分析问题](./problem2.md)  
+[47a2d，建立原型并测试](./problem4.md)  
+[47a2c，寻找问题的解决方案](./problem3.md)  
+[47a2b，分析问题的方法](./problem2.md)  
 [47a2a，解决问题的第一步是定义问题](./problem1.md)  
 [23e，职业选择的方法](./career.md)  
 [58f，工作方向思考](./dahua.md)  
