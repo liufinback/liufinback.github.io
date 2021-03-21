@@ -1,3 +1,4 @@
+[1，知识的金字塔结构](./wisdom.md)  
 [47a2d，建立原型并测试](./problem4.md)  
 [47a2c，寻找问题的解决方案](./problem3.md)  
 [47a2b，分析问题的方法](./problem2.md)  
