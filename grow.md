@@ -1,5 +1,6 @@
 # <center> 加快自我成长的速度 </center>
 [back to index](./index.md)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/grow.md)
 
 1，把自己不熟悉或者做不好的内容拿出来反复练习，不断循环  
 比如我现在做不好什么呢？  

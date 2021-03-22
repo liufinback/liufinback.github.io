@@ -1,5 +1,6 @@
 # <center> 工作方向思考 </center>
 [back to index](./index.md)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/dahua.md)
 
 ISP算法研究已经不重要了，研究的算法已经很难落地到产品或者芯片中，被专业芯片公司替代的过程已经完成。
 

@@ -1,5 +1,6 @@
 # <center> 分析问题的方法 </center>
 [back to index](./index.md)  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/problem2.md)
 
 在分析问题或者提出解决方案时不能仅仅依靠逻辑推理，反而要努力跳出逻辑。因为大家都会进行类似的逻辑推理，问题依然存在就说明了现有逻辑的失效。  
 

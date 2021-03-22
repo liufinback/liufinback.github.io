@@ -1,5 +1,6 @@
 # <center> 解决问题的第一步是定义问题 </center>
 [back to index](./index.md)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/problem1.md)
 
 问题是现实与理想的差距（[日]堀 公俊，2019，P4）。既要搞清楚现实，也要搞清楚理想，才能知道问题在哪里。有时是现实待改善，有时是理想不现实。  
 如果是替别人解决问题，需要先沟通清楚。能把问题讲清楚，别人就会开始相信你，甚至解决方案是否合理都是次要的。  

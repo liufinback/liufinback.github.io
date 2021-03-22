@@ -1,5 +1,6 @@
 # <center> 寻找问题的解决方案 </center>
 [back to index](./index.md)  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/problem3.md)
 
 通过上一步骤中对问题的分析，列出几种最佳的解决方案，这样做能提高选出较好方案的概率。从中选出最简单的或者最合适的方案后也不要着急去执行。要进行第二次设计，不要满足于第一次设计（Erich Gamma，2000，设计模式）。问题往往不是那么简单，再一次的设计可以提高方案的成功率。
 
