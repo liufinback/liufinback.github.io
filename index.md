@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/index.md)
 
+[18a5，深度学习图像处理的主要问题](./deepisp.md)  
 [68，精通计算机算法和人生算法](./lifealg.md)  
 [1，知识的金字塔结构](./wisdom.md)  
 [47a2d，建立原型并测试](./problem4.md)  
