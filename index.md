@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/index.md)
 
+[16，如何成倍的增加你的时间中，时间漏斗模型](./funnel.md)  
 [18a5，深度学习图像处理的主要问题](./deepisp.md)  
 [68，精通计算机算法和人生算法](./lifealg.md)  
 [1，知识的金字塔结构](./wisdom.md)  
