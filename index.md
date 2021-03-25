@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/index.md)
 
+[69，对红外和可见光融合产品的思考](./niraddvis.md)  
 [16，如何成倍的增加你的时间中，时间漏斗模型](./funnel.md)  
 [18a5，深度学习图像处理的主要问题](./deepisp.md)  
 [68，精通计算机算法和人生算法](./lifealg.md)  
