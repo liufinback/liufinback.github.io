@@ -16,19 +16,3 @@
 [58f，工作方向思考](./dahua.md)  
 [1c，使用Slip-box的思考系统](./slipbox.md)  
 [加快成长的速度](./grow.md)
-
-<div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: 'index',
-  owner: 'liufinback'
-  repo: 'Comments'
-  oauth: {
-    client_id: 'fb853590bd6b0c8a4235',
-    client_secret: '80fc99cb13f83dbd52a1eb43213342d1dd4bbaf3',
-  },
-})
-gitment.render('container')
-</script>
