@@ -1,2 +1,5 @@
 theme: jekyll-theme-dinky
-disqus_shortname: liufinback
+disqus:
+  enable: true
+  shortname: liufinback
+  count: true
