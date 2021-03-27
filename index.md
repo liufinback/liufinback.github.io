@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/index.md)
 
+[69b，对最高端产品的颠覆与提升是有意义的](./highend.md)  
 [47/4，看待问题的角度](./angle.md)  
 [69，对红外和可见光融合产品的思考](./niraddvis.md)  
 [16，如何成倍的增加你的时间中，时间漏斗模型](./funnel.md)  
