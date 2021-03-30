@@ -1,4 +1,4 @@
-# <center> 对最高端产品的颠覆与提升是有意义的 </center>
+# <center> 辩论时努力寻找共识 </center>
 [back to index](./index.md)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/commsense.md)
 
