@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/index.md)
 
+[《Think Again》读书笔记](./thinkagain.md)  
 [24a，快乐是精通和意义的副产品](./happy.md)  
 [71，辩论时努力寻找共识](./commsense.md)  
 [69b，对最高端产品的颠覆与提升是有意义的](./highend.md)  
