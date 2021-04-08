@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/index.md)
 
+[16c，把大任务拆解到每天必须完成的小任务](./smalltyranny.md)  
 [5b，做一项任务时也要以终为始](./finaltarget.md)  
 [47，思考问题要从正反两方面考虑](./revert.md)  
 [《Think Again》读书笔记](./thinkagain.md)  
