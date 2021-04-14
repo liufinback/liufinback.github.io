@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://liufinback.github.io/index.md)
 
+[《How to take smart note》读书笔记](./smartnote.md)  
 [8，在某个细分领域下功夫成为专家](./careerprogress.md)  
 [44，不要连续犯错](./oldlady.md)  
 [16c，把大任务拆解到每天必须完成的小任务](./smalltyranny.md)  
