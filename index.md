@@ -23,7 +23,7 @@
 [47a2b，分析问题的方法](./problem2.md)  
 [47a2a，解决问题的第一步是定义问题](./problem1.md)  
 [23e，职业选择的方法](./career.md)  
-[58f，工作方向思考](./dahua.md)  
+[58d，工作方向思考](./dahua.md)  
 [1c，使用Slip-box的思考系统](./slipbox.md)  
 [加快成长的速度](./grow.md)
 
