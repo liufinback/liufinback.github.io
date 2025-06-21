@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=liufinback20250616)
+![](https://hits.sh/liufinback.github.io/2025-06-16 Illusion of Thinking + 心率训练法.md.svg)
 
 1. 苹果实习生[Parshin Shojaee](https://parshinsh.github.io/)发的论文[The Illusion of Thinking](https://machinelearning.apple.com/research/illusion-of-thinking) 否定了模型推理Scaling的能力，激起了热烈的讨论。论文的基本思路是Large Reasoning Models相比于Large Language Model，增加了回答前的推理过程，提高了模型回答的准确度。
     但目前对模型能力的评价以数学和编程能力为主，难以避免数据污染问题，并且没有评价回答前推理过程的质量。这篇论文通过可控难度的题目：汉诺塔、Checkers Jumping、River Crossing和Blocks World四个题目测试了LRM与LLM的能力。结论是低难度题目LRM不如LLM，中等难度题目LRM优于LLM，高难度题目（汉诺塔中大于8个disc）LRM和LLM都会失败崩溃。所以最终的结论是大于一定难度后LRM和LLM都会崩溃，所以不能Scaling。
